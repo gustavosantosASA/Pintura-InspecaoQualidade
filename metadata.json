@@ -1,0 +1,7 @@
+{
+  "name": "ProInspect Industrial",
+  "description": "Professional Quality Assurance Inspection Application integrated with Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
